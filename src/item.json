@@ -1,0 +1,28 @@
+[
+  {
+    "Id": 1,
+    "type": "plumbing",
+    "title": "Reverse Osmosis Standard",
+    "description": "lorem wonofo enoienogin oigoingoinr oirgnoinrgo",
+    "description-two": "lorem lorem wonofo enoienogin oigoingoinr oirgnoinrgo lorem wonofo enoienogin oigoingoinr oirgnoinrgo",
+    "image": "https://i.ibb.co/GCgsB14/electrostatic-filter.jpg",
+    "price": "250"
+  },
+  
+  {
+    "Id": 2,
+    "type": "plumbing",
+    "title": "Reverse Osmosis Premium",
+    "description": "lorem Ipsum enoienogin oigoingoinr oirgnoinrgo",
+    "image": "https://i.ibb.co/GCgsB14/electrostatic-filter.jpg"
+   
+  },
+  {
+    "Id": 3,
+    "type": "hvac",
+    "title": "AC Unit Premium",
+    "description": "lorem Ipsum enoienogin oigoingoinr oirgnoinrgo",
+    "image": "https://i.ibb.co/GCgsB14/electrostatic-filter.jpg"
+  }
+  
+]
