@@ -1,13 +1,19 @@
 import React from 'react';
-import CatalogItem from "./CatalogItem"
+import {Router} from 'react-router-dom';
+import {createBrowserHistory} from 'history';
+
+import Routes from './routes';
+
+const browserHistory = createBrowserHistory();
 
 function App() {
-  return (
-    <div className="App">
-      <CatalogItem />
-      
-    </div>
-  );
+    return (
+        <>
+            <Router history={browserHistory}>
+                <Routes/>
+            </Router>
+        </>
+    );
 }
 
 export default App;
